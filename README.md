@@ -1,4 +1,4 @@
-# 🍉 Fruit Ninja — AI Computer Vision Edition
+# 🍉Ninja Slash — AI Computer Vision Edition
 
 A real-time Fruit Ninja game controlled by your **index finger** via webcam!  
 Built with **Python**, **MediaPipe** hand tracking, and **OpenCV** rendering.
